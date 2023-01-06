@@ -1,5 +1,9 @@
 leep programming language
 
-A minimal programming language used for texture rendering developed in C++.
+A single header file used for graphics in c++.
+
+writes every single pixel manually on the screen using the cpu, without any other graphics api like opengl.
+
+inspired by olive.c developed by tsoding
 
 :)
